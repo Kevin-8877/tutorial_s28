@@ -34,7 +34,16 @@ PHOENIX28 赛季视觉培训文档仓库
 
 ---
 
-## 作业二：Matrix矩阵类
-- **作业内容**：完成homework中的矩阵类，作业说明见`homework->Matrix->main.cpp`，[传送门](./homework/Matrix/main.cpp)
+## 作业二：
+- **作业内容**：用重载运算符实现虚数减法，编译并运行成功。
+
+- **提交方式**：在`homework/`下新建文件夹，编写源码
+
+- **截止时间**：`11月1号 23:59`
+
+---
+
+## 作业三：Matrix矩阵类
+- **作业内容**：完成`homework`中的矩阵类，作业说明见`homework->Matrix->main.cpp`，[传送门](./homework/Matrix/main.cpp)
 
 - **截止时间**：`11月22号 23:59`
